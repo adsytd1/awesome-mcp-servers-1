@@ -194,6 +194,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://m2tg1pnwn0.ufs.sh/f/GMqNN8nd9I8l9tUbmif1CnFX8Baqr7mHeicYu0AULDyNVWJE" height="14"/> [ntfy](https://github.com/gitmotion/ntfy-me-mcp) - An ntfy MCP server for sending/fetching ntfy notifications to your self-hosted ntfy.sh server from AI Agents 📤 (supports secure token auth & more - use with npx or docker!)
 
 <br />
+- <img src="https://dosai.pro/favicon.ico" height="14"/> [DOS AI](https://github.com/adsytd1/dosai-api) - Hosted MCP server for AI assistants in WhatsApp and Telegram with a built-in CRM: read dialogs and leads, send an operator message into a live chat, update the bot prompt, pull analytics and balance. 13 tools, no destructive ones.
 
 ## 📈 <a name="monitoring"></a>Monitoring
 
